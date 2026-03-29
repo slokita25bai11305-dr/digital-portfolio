@@ -39,7 +39,7 @@ Part A (Coding): Solving one beginner challenge on a site like HackerRank. Savin
 
 Part B (Google Workspace): Building a 5-question Digital Literacy quiz.  showing the Form and the Response Spreadsheet.
 
-Report Focus: Explain how these specific tools assist in your academic journey (150–200 words).
+Report Focus: Explain how these specific tools assist in your academic journey .
 LINKS: (HACKERRANK):https://www.hackerrank.com/profile/slokita_25bai111
       (GOOGLE FORM):https://docs.google.com/forms/d/e/1FAIpQLSe4FL35WF4A_fec0LWKArFAtdSCPjQPrIt6zUz2hNpiqWDbXQ/viewform?usp=publish-editor
       (GOOGLE FORM RESPONSE):https://docs.google.com/spreadsheets/d/1G-LU1nUlyDGmkvkpV8UhYTAQsvfrdzK1o3tBTnbRbwg/edit?resourcekey=&gid=886097018#gid=886097018
@@ -61,8 +61,8 @@ Report Focus: Analyzing a scenario where bad digital communication caused a prob
 Module 5: Cybercrime Awareness & Prevention
 Goal: Act as a safety resource for your community.
 
-Part A (Case Study): A 200–250 word breakdown of a specific crime (e.g., UPI Fraud or Phishing).
+Part A (Case Study): A  breakdown of a specific crime (e.g., UPI Fraud or Phishing).
 
-Part B (Prevention): An 8-point checklist. Mandatory: Include UPI safety tips and the 1930 Helpline/National Cyber Crime Portal info.
+Part B (Prevention): A checklist. Mandatory: Include UPI safety tips and the 1930 Helpline/National Cyber Crime Portal info.
 
 Report Focus: Personal reflection on a surprising fact or a habits .
